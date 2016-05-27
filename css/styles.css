@@ -1,12 +1,11 @@
 
 
 body {
-  width: 75%;
   font-family: sans-serif;
+  text-align: center;
 }
 
 img {
-  width: 30%
   float: left;
 }
 
@@ -14,21 +13,19 @@ img {
   margin: 12px;
   border: 8px solid green;
   padding: 2px;
-}
-
-.about-me {
+  float: right;
 }
 
 p {
   font-size: 12px;
 }
 
-.list {
-  font-size: 12px
+l {
+  font-size: 8px
 }
 
-.projects
 
-.language {
+.language
+{
   color: #ff80b3;
 }
