@@ -1,10 +1,12 @@
-body {
-  text-align: ;
-  font-family: "Helvetica", sans-serif
 
+
+body {
+  width: 75%;
+  font-family: sans-serif;
 }
 
 img {
+  width: 30%
   float: left;
 }
 
@@ -15,18 +17,18 @@ img {
 }
 
 .about-me {
-
 }
 
 p {
   font-size: 12px;
 }
 
-li {
-  font-size: 13x;
+.list {
+  font-size: 12px
 }
 
-#wrap {
-  width: 900px;
-  margin: 0 auto;
+.projects
+
+.language {
+  color: #ff80b3;
 }

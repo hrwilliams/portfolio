@@ -1,0 +1,41 @@
+.column {
+  width: 400px;
+  float: left;
+}
+
+.pic-column {
+  width: 200px;
+  float: left;
+}
+
+list {
+  font-size: 12px
+}
+
+body {
+
+  font-family: sans-serif;
+}
+
+.box {
+  margin: 12px;
+  border: 8px solid green;
+  padding: 2px;
+
+}
+
+.language {
+  color: #ff80b3;
+}
+
+p {
+  font-size: 12px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
